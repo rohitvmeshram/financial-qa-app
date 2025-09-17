@@ -5,7 +5,7 @@ A Streamlit app for querying financial PDFs/Excel files using Ollama.
 1. Install Python 3.10+, VS Code, Ollama [](https://adoptium.net/).
 2. Set JAVA_HOME to C:\Program Files\Java\jdk-17.
 3. Run `ollama pull tinyllama` or `ollama pull qwen:0.5b` and `ollama serve`.
-4. Clone repo: `git clone <repo-url>`
+4. Clone repo: `git https://github.com/rohitvmeshram/financial-qa-app`
 5. Navigate: `cd financial-qa-app`
 6. Create venv: `python -m venv venv`
 7. Activate: `venv\Scripts\activate` (Windows)
